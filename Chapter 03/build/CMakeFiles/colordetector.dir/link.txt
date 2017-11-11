@@ -1,0 +1,2 @@
+/usr/bin/ar cr libcolordetector.a  CMakeFiles/colordetector.dir/colordetector.cpp.o
+/usr/bin/ranlib libcolordetector.a

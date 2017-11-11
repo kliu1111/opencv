@@ -1,0 +1,4 @@
+/home/kliu1111/code/opencv/Chapter 03/build/CMakeFiles/colorDetectController.dir
+/home/kliu1111/code/opencv/Chapter 03/build/CMakeFiles/colorDetection.dir
+/home/kliu1111/code/opencv/Chapter 03/build/CMakeFiles/colordetector.dir
+/home/kliu1111/code/opencv/Chapter 03/build/CMakeFiles/colordetectorLab.dir

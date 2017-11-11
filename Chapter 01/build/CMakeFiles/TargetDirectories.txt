@@ -1,0 +1,2 @@
+/home/kliu1111/code/opencv/Chapter 01/build/CMakeFiles/Hellomain1.dir
+/home/kliu1111/code/opencv/Chapter 01/build/CMakeFiles/Hellomain2.dir

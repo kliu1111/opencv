@@ -1,0 +1,2 @@
+/usr/bin/ar cr libcolorDetectController.a  CMakeFiles/colorDetectController.dir/colorDetectController.cpp.o
+/usr/bin/ranlib libcolorDetectController.a

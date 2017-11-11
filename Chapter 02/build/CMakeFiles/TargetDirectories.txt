@@ -1,0 +1,4 @@
+/home/kliu1111/code/opencv/Chapter 02/build/CMakeFiles/addImages.dir
+/home/kliu1111/code/opencv/Chapter 02/build/CMakeFiles/colorReduce.dir
+/home/kliu1111/code/opencv/Chapter 02/build/CMakeFiles/contrast.dir
+/home/kliu1111/code/opencv/Chapter 02/build/CMakeFiles/saltImage.dir
